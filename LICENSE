@@ -1,0 +1,6 @@
+
+### Key Sections in the README:
+
+1. **Installation**: How to add the package to your project.
+2. **Usage**: Instructions on how to use the package, including examples of how to listen for connectivity changes and check initial connectivity.
+3. **Connectivity Results**: Explains the possible values returned by the `ConnectivityResult` enum: `none`, `wifi`, and `mobile`.
